@@ -1,5 +1,5 @@
 import './sass/main.scss';
-import images from './gallery-items';
+import images from './js/gallery-items';
 
 const refs = {
     galleryListRef: document.querySelector('.gallery'),
